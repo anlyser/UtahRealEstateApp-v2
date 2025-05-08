@@ -1,0 +1,136 @@
+﻿UT PL 32 The Basics of Finance 2 Study Guide
+
+Term
+
+collateralized A secondary market product that is a fixed income security that uses mortgage-backed securities 
+mortgage obligation as collateral. It is subdivided into graduated risk classes so that investors can more easily 
+
+determine how much risk they want to take on.
+
+conforming loan A mortgage loan that conforms to GSE (Fannie Mae and Freddie Mac) guidelines, such that it can 
+be purchased on the secondary debt market.
+
+default risk The risk of not being paid. A rising market covers default risk, because a homeowner can sell the 
+property in that market and make the lender whole.
+
+delayed payment The risk of payment being deferred, which is a risk because the delay of receiving money lowers 
+risk the overall value of the investment.
+
+Desktop Underwriter Fannie Mae's automatic underwriting technology. It provides lenders a comprehensive credit risk 
+assessment that determines whether a loan meets Fannie Mae’s eligibility requirements.
+
+direct lender Someone who is making a loan directly to the consumer, with the intent to hold at least a portion 
+of that loan in their investment.
+
+discount rate The interest rate charged to commercial banks and other depository institutions for loans received 
+from the Federal Reserve's discount window.
+
+discount window An instrument of monetary policy that allows eligible institutions to borrow money from the 
+central bank, usually on a short-term basis, to offset temporary shortages of liquidity.
+
+federal funds rate The federal funds target rate is set by the governors of the Federal Reserve, which they enforce by 
+open market operations and adjustments in the interest rate on reserves. They intervene by 
+influencing the rate at which banks are lending to one another. This impacts short-term interest 
+rates, not long-term rates.
+
+Federal Home Loan Known as FHMLC or Freddie Mac, an entity that buys mortgages on the secondary market, pools 
+Mortgage them, and sells them as a mortgage-backed security to investors. A government-sponsored 
+Corporation enterprise (GSE).
+
+Federal National Known as FNMA or Fannie Mae, an organization started to create a market to help loans move 
+Mortgage more smoothly. Its primary purpose is to provide liquidity for first government-backed loans (such 
+Corporation as FHA and VA loans), and because of it, loans are more affordable. A government-sponsored 
+
+enterprise (GSE).
+
+Federal Reserve The central bank of the United States (not government-owned). It conducts monetary policy by 
+System influencing money and credit conditions. It also maintains the stability of the financial system.
+
+Government Known as GNMA or Ginnie Mae, established to ensure timely payments for FHA and VA loans so 
+National Mortgage that they would be more attractive investments.
+Corporation
+
+institutional lender Buyers of loans on the secondary market. Lenders looking to provide capital to others who are 
+working through the origination/underwriting process.
+
+interest risk The risk that interest rates will go up and devalue the current, lower-interest loan.
+
+Loan Prospector Freddie Mac's automatic underwriting technology.
+
+mortgage backed A secondary market product that uses mortgage loans to issue a bond. Used to raise capital to 
+bond issue more loans.
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 1 of 3
+
+
+
+mortgage pay A secondary market product issued like a mortgage backed bond but pays like a pass through 
+through bond security.
+
+Nationwide The system of record for non-depository financial services licensing or registration in participating 
+Mortgage state agencies.
+Licensing System 
+and Registry
+
+pass through A secondary market product that passes principal and interest payments to the holder. An equity 
+security interest in the loan.
+
+prepayment risk The risk that a loan will be paid off early or otherwise refinanced at a lower interest rate, reducing 
+the value that the investor would receive from interest.
+
+prime loan Loans to borrowers who meet specific lending criteria that qualify them as a higher credit quality 
+for a lender. Typically associated with conventional or conforming loans.
+
+reserve requirement A central bank regulation that sets the minimum amount of reserves that must be held by a 
+commercial bank.
+
+subprime loan Loans to borrowers who do not have a strong credit history and are not considered as low of a 
+credit risk. This refers to the credit quality of the borrower, rather than being a specific, separate 
+product.
+
+The SAFE Act Known as the Secure and Fair Enforcement for Mortgage Licensing Act, this legislature mandates a 
+nationwide licensing and registration system for residential mortgage loan originators. The SAFE 
+Act requires that federal registration and state licensing and registration be accomplished through 
+the Nationwide Mortgage Licensing System and Registry.
+
+underwriter The role of the underwriter is to make sure that the loan is assembled in such a way and that the 
+documentation and appropriate information is there so that when they put that loan into a pool of 
+other mortgages it meets basic criteria. Underwriters must be sure that there is a complete file and 
+that that file meets the criteria for investors in the secondary market who are purchasing those 
+loans. They determine if the buyer has the capacity to repay the loan, that it is more than likely 
+that they will be able to continue their payments in a timely manner. They are also examining the 
+collateral to make sure that the property actually exists.
+
+Concept
+
+Discounting a Loan Lenders sometimes sell a loan at a discount if circumstances have changed. For example, if the 
+credit rating has decreased, it is no longer worth as much as it was. This applies to the secondary 
+market, not to the original loan agreement.
+
+Interest Rates and When interest rates rise, the number of people purchasing homes (or the size of the homes they 
+Real Estate buy) goes down. 
+
+Loan Risk Loan owners must take into account specific types of risks, even though mortgages have collateral.
+
+The Market for Debt Demand is lenders who want to lend (who want to buy debt). Supply is borrowers who want to 
+borrow (who want to sell debt). As price moves up, interest rates fall. However, if lots of people 
+want to borrow money, supply goes up, price goes down, and interest rates go up.
+
+The Secondary The secondary loans market, in which existing loans are bought and sold. Many people buy and sell 
+Market loans, typically in large packages. The goal is to ensure that lenders have enough capital to be able 
+
+to continue providing loans.
+
+Who Buys Debt? There are large sources of capital looking for a wide variety of assets, such as pensions, other large 
+institutional resources (university endowments), and private money. One of the easiest ways for 
+them to get exposure to real estate as an asset class is to buy mortgages.
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 2 of 3
+
+
+
+Why Does Your Most lenders either specialize in originating loans or holding loans long-term. It takes a 
+Lender Want to Sell tremendous amount of capital to hold loans.
+Your Loan?
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 3 of 3

@@ -1,0 +1,56 @@
+
+Utah Real Estate Exam Prep - Replit Installation Guide
+
+Prerequisites:
+- A Replit account
+- Basic knowledge of using Replit
+
+Step 1: Project Setup
+1. Create a new Repl
+2. Choose Node.js as the template
+3. Name your project (e.g., "utah-real-estate-prep")
+
+Step 2: Import Code
+1. Upload your project files to the Repl
+2. Wait for the file indexing to complete
+
+Step 3: Database Setup
+The project uses PostgreSQL. In Replit:
+1. Database is automatically provisioned
+2. Database URL is automatically set as an environment variable
+
+Step 4: Install Dependencies
+Run these commands in the Replit shell:
+npm install
+npx drizzle-kit push
+npm run seed
+
+Step 5: Verify Setup
+Check that you have:
+- 8 categories in the database
+- Approximately 1,700 questions loaded
+- Server running on port 5000
+
+Step 6: Start the Application
+Click the "Run" button in Replit
+
+Troubleshooting:
+
+If questions are missing:
+1. Run: npm run fast-import
+2. Run: npm run add-missing-questions
+3. Run: npm run final-complete-import
+
+If database issues occur:
+1. Check Replit Database tab
+2. Verify environment variables are set
+3. Try rerunning the migration: npx drizzle-kit push
+
+Application Features:
+- 1,600+ multiple-choice flash cards
+- 8 study categories
+- Progress tracking
+- Responsive design
+- Works in Replit's environment
+
+For additional help, contact repository owner.

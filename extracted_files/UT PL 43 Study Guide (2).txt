@@ -1,0 +1,62 @@
+﻿UT PL 43 Math 2 Study Guide
+
+Term
+
+acre foot A unit of volume equal to the volume of a sheet of water one acre in area and one foot in depth.
+
+banker's year A 360 day year, used because it divides more evenly. Each month is treated as having 30 days.
+
+capitalization rate The ratio of net operating income to property asset value. Find by dividing the NOI by the property 
+(cap rate) value.
+
+front footage In real estate, frontage is the width of a lot, measured at the front part of the lot
+
+insurance proration Although this is not typically done, the calculation is the same as prorating taxes or rent. Multiply 
+the fraction of the year by the total insurance cost.
+
+mill An abbreviation for millions. To express a tax rate as a decimal instead, move the decimal point 
+back three places. If a property tax rate is 35 mills, it is .035 in decimal form.
+
+mill rate The mill rate is the amount of tax payable per dollar of the assessed value of a property
+
+operating expense The measure is very common in real estate analysis, whereby analysts are measuring the costs to 
+ratio operate a piece of property versus the income it generates.
+
+rent proration prorated rent amount you must take the total rent due, divide it by the number of days in the 
+month to determine a daily rent amount
+
+risk of loss The party bearing the burden of risk of damage occurring. Once the buyer has closed on the home, 
+this becomes his or her responsibility.
+
+tax proration The method of determining how much property tax for a year a party owes. Add the number of 
+days in which the property was owned by the party in question, then multiply it by the total 
+property tax, then divide it by 365 days. In other words, multiply the fraction of the year in which 
+the party owned the property by the total year's tax. The seller is responsible for property tax up 
+through the day of closing.
+
+Volume To measure cubic feet, multiply length times width times depth. In other words, multiply the area 
+Measurement by the depth. Acre footage
+
+Concept
+
+Area (square Multiply the number of acres by 43,560 to find the square footage. Square footage can be 
+footage) calculated by multiplying length times width.
+
+Calculating When calculating commissions from a transaction, be sure to calculate using the sales price rather 
+Commissions than the listing price.
+
+Calculating Special Improvement assessments by the city may be payable by owners based upon the property 
+Assessments measurements. For example, an assessment for a sidewalk may be based upon the front footage 
+
+of the property.
+
+Depreciation Start by finding the building value: the sales price plus closing costs, multiplied by 70%. Next, take 
+this value and divide it by the life of the property in years (27.5 in our example). According to the 
+IRS, different types of buildings have different values.
+
+Paying Off a Lien To remove a mechanic's lien from a home: pay the subcontractor in full, have the subcontractor 
+remove the lien by signing a reconveyance of his interest to the title of the  property, and record 
+the conveyance. Sellers must convey a clear title to the buyer on closing day, so all such liens must 
+be removed first.
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 1 of 1

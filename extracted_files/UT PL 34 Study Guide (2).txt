@@ -1,0 +1,122 @@
+﻿UT PL 34 Loan Programs Study Guide
+
+Term
+
+amortization Breaks down each payment into what is going towards interest and what goes towards principal.
+
+ARM Adjustable Rate Mortgage. Within a set term, the interest and monthly payment are fixed. After 
+that time, they can fluctuate. 
+
+assumption A loan (such as an FHA loan) that can be taken over by a home buyer at the same interest rate, if 
+they qualify for it. This lower interest rate can be marketable when selling a home.
+
+blanket loan Typically only used by builders, to use a large chunk of land (i.e. when purchasing a subdivision).
+
+bridge, gap, or A shorter term loan, between 6 and 12 months. A buyer with substantial equity in an existing 
+swing loan home can finance that home as a bridge loan and use that money to purchase a new home as a 
+
+cash buyer. Typically done through a bank or credit union.
+
+compound interest A form of interest that is the addition of interest to the principal sum of the loan as a result of 
+reinvesting the interest rather than paying it out.
+
+construction loan A loan taken out when the buyer already owns the land and wants to build on it. The loan-to-value 
+requirements are a bit more strict: a larger down payment of 25-30% is typically required. There 
+needs to be a strong relationship between the bank and the builder.
+
+conventional loan The most common type of loan. Not insured by FHA or VA. Also known as a conforming loan, 
+which means it conforms to Freddie Mac or Fannie Mae standards. Certain criteria must be met: 
+credit score, debt to income ratio, loan to value ratio (down payment), work history, etc. Each 
+county has its own loan limit (for example, $424,100 in Utah County).
+
+discount points Fees paid directly to the lender at closing in exchange for a reduced interest rate. One point costs 1 
+percent of your mortgage amount.
+
+FHA loan A Federal Housing Administration loan. The property guidelines are more strict: actual property 
+purchased and quality of it. The borrower's qualifications are more lenient: credit scores, low down 
+payments, debt-to-income ratio. These loans require at least 3.5% down, and they are assumable.
+
+first lien position Also known as a senior lien, this the highest priority debt in the case of default. If a property or 
+other type of collateral is used to back a debt, first lien debt holders are paid before all other debt 
+holders.
+
+forward mortgage A traditional mortgage, amortized over a certain period of time and paid off in monthly payments 
+in a specific term. Typically just known as a mortgage.
+
+funding fee A term unique to VA loans. This is similar to an up-front mortgage premium and a cost in addition 
+to the loan. It can be financed. The purpose is to ensure the program's continuation.
+
+guarantee fee A payment that is part of a USDA loan, similar to UFMIP or a funding fee.
+
+HELOC Home Equity Line of Credit. Equity can be pulled from a home as a loan. It is typically in a second 
+lien position.
+
+mortgage insurance A type of insurance required of a buyer when a down payment of less than 20% is made.
+
+mortgagee The lender in a mortgage, typically a bank.
+
+mortgagor The borrower in a mortgage, typically a homeowner.
+
+NOV Notice of Value, an appraisal used for VA loans. The property must qualify to be eligible for a VA 
+loan.
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 1 of 2
+
+
+
+package loan A loan that includes the real property purchased and anything else on the property (such as 
+appliances, furniture, and personal appliances).
+
+PITI Stands for Principal, Interest, Taxes, Insurance. This gives the borrower a full picture of what their 
+entire payment is going to be. The purpose is to ensure that buyers know what costs to expect. 
+This does not include mortgage insurance, which is separate from home insurance, or HOA fees.
+
+prepayment penalty An extra fee charged to a borrower when a loan is paid off before the term of the loan. Less 
+common than it once was.
+
+purchase money Also known as seller financing. When the buyer cannot qualify for their own loan, the seller would 
+mortgage finance the loan. The buyer would then pay the seller on a monthly basis.
+
+reverse annuity This is another term for a reverse mortgage.
+
+reverse mortgage Instead of paying towards a home monthly, the homeowner pulls money monthly from equity in a 
+home. You must be 62 or older to do this.
+
+second lien position Also known as a junior lien, this is a loan you take out using your house as collateral while you still 
+have another loan secured by your house. Home equity loans and home equity lines of credit 
+(HELOCs) are common examples of second mortgages.
+
+shared appreciation A mortgage is arranged as a form of equity release. The lender lends the borrower a capital sum in 
+exchange for a share of the future increase in the growth of the property.
+
+simple interest A form of interest that is calculated on a daily basis.
+
+UFMIP Up-Front Mortgage Insurance Premium. This is used on an FHA loan. This is a premium added on 
+top of the loan amount but can be financed. The purpose is to insure FHA against defaults.
+
+USDA loan A loan for a home that must be in a rural location, as determined by USDA. Each county has an 
+income limit, such that a borrower must make less than the income limit to qualify, based on 
+household size. This loan has no money down and a low interest rate, but a guarantee fee is 
+charged.
+
+VA loan A loan with no monthly mortgage insurance and no money down. The interest rate is low. Only 
+qualified veterans can qualify for this type of loan. The debt-to-income ratio requirements are 
+more lenient than a conventional loan. A VA loan is insured by the US Department of Veteran's 
+Affairs. Some additional information must be collected when applying, such as the veteran's 
+Certificate of Eligibility. Any condos such a loan would be used for must be approved by the VA. 
+Multi-family homes can qualify as long as the borrower lives in one of them.
+
+wraparound A form of secondary financing for the purchase of real property. The seller extends to the buyer a 
+junior, or second, mortgage which wraps around and exists in addition to any superior mortgages 
+already existent on the property.
+
+Concept
+
+Loans Intended for FHA and VA loans are intended for home ownership and primary residences rather than as vehicles 
+Residency for investment properties. The borrower must intend to live in the property for at least 12 months.
+
+Real Estate Do not make blanket statements to a buyer about what is "always" the best type of loan to get. 
+Professionals and Each client has a different financial picture. Do not quote interest rates!
+Interest Rates
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 2 of 2

@@ -1,0 +1,107 @@
+Detailed Step-by-Step Guide for Installing the Utah Real Estate Exam Prep Application from Local Files
+Prerequisites
+Node.js v16+ installed
+PostgreSQL database installed and running
+Step 1: Prepare the Project Files
+Assuming you have the project files downloaded as a ZIP or folder:
+
+# Extract the zip file (if applicable)
+unzip utah-real-estate-prep.zip -d utah-real-estate-prep
+# Navigate to the project directory
+cd utah-real-estate-prep
+Step 2: Install Dependencies
+# Install all project dependencies
+npm install
+Step 3: Set Up the Database
+Create a PostgreSQL Database
+# Connect to PostgreSQL
+psql -U postgres
+# Create a new database
+CREATE DATABASE utah_real_estate_prep;
+# Exit psql
+\q
+Set Environment Variables
+Create a .env file in the project root with the following content:
+
+DATABASE_URL=postgresql://username:password@localhost:5432/utah_real_estate_prep
+NODE_ENV=development
+PORT=5000
+Replace username and password with your PostgreSQL credentials.
+
+Run Database Migrations
+# Run the database migrations to create tables
+npx drizzle-kit push
+Seed the Database with Questions and Categories
+# Run the seed script to populate the database with questions and categories
+npm run seed
+Step 4: Verify Database Setup
+# Connect to the database to check if tables and data were created
+psql -U postgres -d utah_real_estate_prep
+# List tables
+\dt
+# Check category count
+SELECT COUNT(*) FROM categories;
+# Check question count
+SELECT COUNT(*) FROM questions;
+# Exit psql
+\q
+You should see 8 categories and approximately 1,672 questions.
+
+Step 5: Handling Missing Questions (If Needed)
+If the questions aren't properly loaded from the seed script, you might need to run additional import scripts:
+
+# Fast import of questions
+npm run fast-import
+# Add any missing questions
+npm run add-missing-questions
+# Run the comprehensive final import
+npm run final-complete-import
+Step 6: Start the Development Server
+# Start the development server
+npm run dev
+The application should now be running on http://localhost:5000
+
+Step 7: Build for Production (Optional)
+# Build the application for production
+npm run build
+# Start the production server
+npm start
+Troubleshooting
+Database Connection Issues
+Verify PostgreSQL is running: pg_isready
+Check connection string in .env file is correct
+Ensure PostgreSQL user has proper permissions
+If you get permission errors, try:
+# Grant privileges to user
+psql -U postgres
+GRANT ALL PRIVILEGES ON DATABASE utah_real_estate_prep TO your_username;
+\q
+Missing or Incorrect Project Files
+Verify the folder structure:
+utah-real-estate-prep/
+├── client/
+│   └── src/
+│       ├── components/
+│       ├── hooks/
+│       ├── lib/
+│       └── pages/
+├── db/
+├── server/
+├── shared/
+├── package.json
+├── tsconfig.json
+└── ...
+Node.js Errors
+Ensure Node.js version is 16 or higher: node -v
+Clear Node modules and reinstall if needed:
+rm -rf node_modules
+npm install
+Questions Not Appearing in the Application
+Check if the database is properly populated:
+psql -U postgres -d utah_real_estate_prep -c "SELECT COUNT(*) FROM questions"
+If the count is low, run:
+npm run final-complete-import
+Additional Notes
+The application serves over 1,670 multiple-choice flash cards across 8 categories
+Study progress is tracked per category and saved in the database
+The application is designed to work without internet connectivity once installed

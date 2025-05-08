@@ -1,0 +1,570 @@
+﻿ARTIAcademics.com
+
+ 
+Arti Academics Math Study Guide 
+ 
+ 
+Introduction 
+A Real Estate Agent needs to have strong math skills to be successful. They need to be able to 
+calculate commissions, estimate property taxes, and keep track of their finances. They also need to 
+be able to negotiate with buyers and sellers and understand the market.  
+ 
+Key Terms and Formulas  
+ 
+Loan to Value - 
+ 
+
+Definition  
+Loan to value ratio (LTV) is a financial term used to express the ratio of the amount 
+borrowed to the value of a real estate asset. The property value is usually determined by an 
+appraisal.  
+ 
+Calculating Loan to Value 
+LTV = Mortgage Amount / Property Value 
+
+ 
+Example Problem 
+If you have a mortgage amount of $500,000 and the appraised property value is 525,000 
+then your LTV would be: 500,000/525,000 or .95%  
+ 
+
+Mortgages & Basic Interest - 
+ 
+
+Definition  
+Basic Interest is the cost of borrowing money and is typically expressed as a percentage of 
+the principal loan amount.  
+ 
+Calculating Basic Interest  
+A = P(1 + rt) A is the final amount, P is the initial balance, r is the rate and t is the time  
+in years.  
+ 
+Example Problem 
+If you borrowed 500,000 at 6% for 15 years your final amount would be A = 
+$500,000(1+.06*15) or $950,000  
+ 
+Now we find the Interest and the Principal in the payment. Take the loan amount at 
+500,000 and multiple by interest of .06 = 30,000 / 12 months = $2,500 - $2,997.75 = 
+$497.75 This shows that month one interest is $2,500 and principal is $497.75  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+ 
+ 
+
+PITI  
+A mortgage will typically include Principal, interest, taxes, and Insurance.   
+ 
+Amortization 
+Mortgage Amortization is the process of spreading out the cost of a property over its useful 
+life. This is usually done through periodic payments, such as monthly or yearly payments.  
+ 
+Per Annum  
+Per Annum means once per year  
+ 
+Example - A 5% per annum interest rate on a $500,000 dollar loan would cost $25,000 per 
+year. (500000*.05).  
+ 
+
+Settlement & Closing Cost - 
+ 
+
+Definition  
+Fees that the buyer and/or seller pay to complete the sale of a property.  
+ 
+Closing cost are typically between 2%-5%   
+ 
+
+Prorations - 
+ 
+
+Definition  
+A proration is when a seller and buyer of a property agree to split the cost of something 
+based on the time each owned the property.   
+ 
+Calculating Prorations  
+Property Taxes for a property are $1,000 for the year and the seller owned the property for 
+six months and the buyer owned it for six months, the seller would pay $500 of the taxes 
+and the buyer would pay $500.  
+ 
+Example Problem 
+Harold is selling a house and John is purchasing it. For the year, property taxes of $2,500 
+were already paid by Harold. Harold has owned the home for 120 days this year. John will 
+own the home for 245 days. How much should money Harold get back at closing? Harold 
+will receive $1678.08 at closing. Step one 245/365 = .67 Step 2 .67*2500=1678.08  
+
+  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+Transfer Tax - 
+ 
+
+Definition  
+This is a tax by local or state government to complete a sale of property from one owner to 
+another. Depending on the state or jurisdiction, the transfer tax fees can vary but are 
+typically a percentage of the sales price.  
+ 
+Calculation  
+It is calculated as a percentage of the sale price or appraised value of the property being 
+sold. It depends on the state, city, and county of the property is being sold in.  
+ 
+
+Pre-Payment-Penalty - 
+ 
+
+Definition  
+A fee that is charged by some lenders for if you pay the loan off before the term of the loan 
+has expired. This is typically used to pay the lender additional money if the property is sold 
+within the first few years. Most often these are applicable to commercial or investment 
+loans. They are not as common on residential loans.  
+ 
+Calculating Pre Payment-Penalty  
+A typical Pre-payment structure is a 5-4-3-2-1 meaning if the loan is paid off in the first 
+year the penalty is 5% of the loan value. If it is paid off in the second year the penalty is 4% 
+of the loan value and so on. In this example, in year 5, there is no prepayment penalty.  
+ 
+Example Problem 
+You took out a loan for $500,000 dollars and you wish to pay it off in year 3 and you have 
+paid down the loan $150,000 dollars how much is the Pre-payment Penalty? $500,000 - 
+$150,000 = $350,000 *.03 = $10,500 of prepayment penalty for a total of $360,500 to pay 
+off the loan 
+ 
+
+Discount Points on Loan - 
+ 
+
+Definition  
+Discount points are a fee paid by the borrower to the lender at closing to lower the interest 
+rate on the loan. Generally, one point lowers your rate .0125-.025 or 1/8-1/4 of a percent.  
+ 
+Calculating Discount Points  
+Discount points are calculated as a percentage of the loan amount. Each point is one 
+percent of the total amount borrowed. On a 500,000 dollar loan if you wanted to buy down 
+one point it would be $500,000 * .01 or 1% which is $5000. So, for every point buy down it 
+would cost $5000 dollars.  
+ 
+ 
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+Example Problem 
+A borrower is considering taking out a 500,000-dollar loan. The lender is offering the 
+borrower the option to purchase discount points to reduce the interest rate on the loan. 
+How many discount points must the borrower purchase to reduce the interest rate by 1%, If 
+we assume each point buys down .025%? $500,000 *.01 = $5000 so each .25% rate 
+reduction will cost $5,000 and we need 1%. 1/.25 = 4 so we need $5,000 * 4 = $20,000 to 
+get 1% lower interest rate.  
+
+ 
+Loss or Gain on Property - 
+ 
+
+Definition  
+Loss or gain is the amount of money you made or lost at the time of selling the property.  
+ 
+Calculating Loss or Gain on Property  
+Start with the purchase price of the asset - the depreciation + improvements then subtract 
+that from the purchase price if it is positive, you have gain if it is negative, you have loss.  
+ 
+Example Problem 
+You bought a home for $500,000 and in 15 years you sold it for $750,000, over those 15 
+years you put $35,0000 in to fix it up and it has depreciated about $30,000. So, the total 
+purchase price becomes $500,000 - $30,000 + $20,000 = $750,000 - $490,000 = 
+$260,000 in profit. 
+ 
+
+Gross Leasable Area - 
+ 
+
+Definition  
+Gross leasable area (GLA) is the amount of space in a commercial building that is available 
+for lease to tenants. This includes both the usable square footage of the space, as well as 
+common areas such as hallways and restrooms. The amount of GLA will vary significantly 
+from one building to another and is typically larger in office buildings than in retail 
+establishments.  
+ 
+Calculation  
+Simply add the total square feet available for lease.  
+ 
+Example Problem 
+Jon and Barry have two commercial suites for rent. Suite 1 is 3,900 square feet and Suite 2 
+is 12,000 square feet. What is the gross leasable area? Answer: The gross leasable area is 
+15,900 square feet. (3900 + 12000 = 15,900).  
+ 
+For more information refer to the commercial real estate leasing course at ARTI(r) 
+Academics.  
+
+  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+ 
+Net Operating Income - 
+ 
+
+Definition  
+After subtracting necessary operating expenses, the net operating income is used to 
+determine the revenue and profitability of an investment.  
+ 
+Calculating Net Operation Income  
+All revenue – all operating expenses as necessary  
+ 
+Example Problem 
+If your investment had a revenue of $5,000 a month and the expenses were $1,800 a 
+month what is your NOI over the year? $5,000 * 12 = $60,000 - $1,800 * 12 = $21,600 so 
+our NOI is $60,000 - $21,600 = $39,400  
+ 
+
+Capitalization Rate - 
+ 
+
+Definition  
+Used in commercial real estate to indicate the rate of return that would be expected or 
+generated on a real estate investment property. It gauges the risk and potential return on 
+the property. Cap rates can vary from less than 4% to greater than 10% depending on the 
+current real estate market dynamics.  
+ 
+Calculating Capitalization Rate  
+Start with finding the net income which is Gross Revenue – Total Expenses. Then divide the 
+net income by the purchase price. Then multiply by 100 to get the percentage.  
+ 
+Example Problem 
+You bought a piece of property for $1,000,000 and the estimated gross income is $75,000 
+and expenses of $10,000. The net income becomes $75,000 - $10,000 = $65,000 now 
+divide $65,000/$1,000,000 = .065 * 100 = 6.5% capitalization rate.  
+ 
+
+Depreciation - 
+ 
+
+Definition  
+Depreciation is an accounting method that allows a company to spread the cost of a 
+purchase over the useful life of the asset. This method is often used for large purchases, 
+such as buildings or equipment, that will be used for several years.   
+ 
+Calculating Depreciation  
+Divide the property value by the life of the property or useful life. For commercial real estate 
+the useful life is 39 years. For residential real estate the useful life is 27.5 years.  
+ 
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+Example Problem 
+We purchase a home that we rent for $500,000 with a useful life of 39 years. We would take 
+$500,000 / 39 = $12,820.51 depreciation each year.  
+ 
+
+Capitalization Rate - 
+ 
+
+Definition  
+Generally, real estate agents receive a commission from the seller, which is often a 
+percentage of the final sale price of the home.  
+ 
+Calculating Capitalization Rate  
+Take the total sales price of the property and divide it by the commission amount.  
+ 
+Example Problem 
+Larry is a Real Estate Agent representing Paul to sell his home. Paul agreed to pay Larry’s 
+Brokerage 6% of the sales price for the service. Another agent represented the Buyer and 
+received 50% of the total commission. Larry sold Paul’s home for $280,000. How much 
+revenue does Larry’s Brokerage earn on the transaction? Larry’s Brokerage earns $8,400. 
+(280,000 * (.06 - .03) = $8,400)  
+ 
+
+Decimals, Percentages, Fractions - 
+ 
+
+Definition  
+Decimal is a tenth part or power of tens.   
+Percentage is a rate or portion of 100.  
+Fractions represents a part or portion of a whole.  
+ 
+Examples  
+¼ = .25 = 25%   
+1/3 = .33 = 33.33%  
+½ = .50 = 50%  
+1/8 = .125 = 12.5%  
+
+  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+ 
+Land Area Calculations  
+ 
+Calculate Square Feet - 
+ 
+
+Definition  
+Is a unit of area that is equal to 1 foot by 1 foot. 
+ 
+Calculating Square Footage   
+It is calculated by taking the Length and the width and multiplying them. L x W  
+ 
+Example Problems 
+If you have a room that is 14.7 ft by 25 ft what is the square footage? 14.7* 25 = 365.7 square feet  
+ 
+If you have a property that is 500ft by 357 ft what is the square footage? 500 * 357 = 178,500 square 
+feet  
+ 
+
+Calculate Acreage – 
+ 
+
+Definition  
+An acre is a unit of measurement equaling 43,560 square feet. One acre is 208ft by 208ft square.  
+ 
+Calculating Acreage  
+This can be done multiple ways depending on what information you have. If you have the length (L) 
+and width (W) of the property, you can multiple L X W then you would divide by 43560 Square feet.   
+ 
+Take the square feet and simply divide by 43560 to get the acreage.  
+ 
+Example Problems 
+If the length of the property is 750 and the width is 1000 what is the acreage? 750 * 1000 = 750,000 
+square feet. Divide 750,000 by 43560 = 17.22 acres  
+ 
+If the square footage is 7600 what is the acreage? 43560 / 7600 = .17 acres  
+ 
+
+Calculating a Section - 
+ 
+
+Definition  
+A section is a unit of measurement in the Public Land Surveying System commonly equaling 640 
+acres.  
+ 
+Calculating a section  
+Simply divide the number of acres using your calculator by the section size, typically 640 acres, to 
+return the number of sections. Similarly, you can multiply the number of Sections by 640 to return 
+the number of acres.  
+ 
+Example Problem 
+I own 2.5 sections of land. How many total acres do I have? = 640 + 640 + 320 or 1600 Acres. 
+Calculated differently 2.5*640 = 1600 Acres  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+Practice Questions  
+ 
+
+1. What is the loan to value on a house that appraised for $475,000 and a loan amount of 
+$300,000?   
+
+ 
+2. If someone has a loan for $750,000 at a 5% interest rate, how much will they pay in 
+
+interest after one year?  
+ 
+
+3. A borrower is considering taking out a 500,000-dollar loan. The lender is offering the 
+borrower the option to purchase discount points to reduce the interest rate on the loan. One 
+discount point reduces the interest rate by .25%. How many discount points must the 
+borrower purchase to reduce the interest rate by 1%?  
+
+ 
+4. A borrower bought down their rate 1.5% on their $500,000 dollar loan, at a rate of .025 
+
+percent per point how much did they spend on discount points?  
+ 
+
+5. The length of the property is 300ft and the width is 250 ft. How many acres is the property 
+assume an acre is 43560 Square Feet?  
+
+ 
+6. What is the square footage if the length is 250 feet, and the width is 575 feet?  
+
+ 
+7. Jake owns 2.5 sections of land. How many acres does Jake have?   
+
+ 
+8. My property is 27,456 square feet what is the acreage?   
+
+ 
+9. I have 8.9 acres how large is my lot in square feet?   
+
+ 
+10. You bought a home for $500,000 and in 15 years you sold it for $750,000, over those 15 
+
+years you put $35,0000 in to fix it up and it has depreciated about $30,000. What is the 
+loss or gain on the property?  
+
+ 
+11. You took out a loan for $750,000 over 5 years and you decide on year 2 to pay off the loan 
+
+but it has a pre-payment penalty of 4%. What is the total you would owe for paying off early 
+if your remaining balance is $600,000?  
+
+ 
+12. You have 3 rooms upstairs and need to find the square footage. Room 1: 15.7 X 18.5 Room 
+
+2: 12 X 12 and Room 3: 14 X 12.5 what is the total square footage?  
+ 
+
+13. A property is listed having 32,000 square footage what is the acreage?  
+ 
+
+14. You bought a home for $500,000 and in 10 years you sold it for $450,000, over those 10 
+years you put $25,000 in to fix it up and it has depreciated about $15,000. What is your 
+loss or gain on the property?  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+ 
+15. If you invested $75,000 and the profit from your investment would be $115,000 what is 
+
+your ROI?   
+ 
+
+16. Joe has two commercial suites for rent. Suite 1 is 7,700 square feet and Suite 2 is 9,600 
+square feet. What is the gross leasable area?  
+
+ 
+17. Bill has an investment with a monthly revenue of $10,000 and monthly expenses of $2,700 
+
+what is the NOI over the year?  
+ 
+
+18. Jimmy bought a piece of property for $2,000,000 and has an estimate gross income of 
+$200,000 and expenses of $50,000. What is the capitalization rate?  
+
+ 
+19. Brad buys a home that he wants to rent for $750,000 which has a useful life of 27.5 years, 
+
+what is the depreciation?  
+ 
+
+20. Jimmy is a Real Estate Agent representing Paul to sell his home. Paul agreed to pay Larry’s 
+Brokerage 6% of the sales price for the service. Another agent represented the Buyer and 
+received 50% of the total commission. Larry sold Paul’s home for $520,000. How much 
+revenue does Larry’s Brokerage earn on the transaction?   
+
+ 
+21. What is your PITI if your principal payment is $1,745 interest payments is $1,256, taxes are 
+
+$124, and insurance is $99?  
+ 
+
+22. What is .33 in fraction and decimal form?  
+ 
+
+23. What is 50% in decimal and fraction form?  
+ 
+
+24. What is ¼ in decimal and percentage form?  
+ 
+
+25. You took out $250,000 loan for 5 years with a prepayment penalty of 8%. You decide to 
+pay off the loan at the end of year 1. What is the total you would owe for paying off early if 
+your remaining balance is $200,000?  
+
+ 
+26. Larry purchases a home that he rents for $500,000 with a useful life of 27 years. Calculate 
+
+the amount of depreciation each year.  
+ 
+
+27. Louise is purchasing a home for $500,000 and it is estimated that closing costs will be 3%. 
+How much money should Louise plan on paying at closing?  
+
+ 
+28. Harold is selling a house and John is purchasing it. For the year, property taxes of $2,500 
+
+were already paid by Harold. Harold has owned the home for 120 days this year. John will 
+own the home for 245 days. How much should money Harold get back at closing?   
+
+  
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.
+
+
+
+ 
+ARTIAcademics.com
+
+ 
+Answer Key 
+ 
+
+1. $300,000/$475,000 = .63%  
+2. A=$750,000(1+.05*1) A = $787,500 Total interest paid is $787,500-$750,000 =$37,500  
+3. Each point is .025% and 1% is the total buy down. 1/.025 = 4 so we need 4 discount 
+
+points   
+4. 1.5% at .25% per buy down 1.5/.25 = 6. Buy down point cost 1% of the total loan 
+
+$500,000 or $5,000 per buy down. 6 points at $5,000 per point = 6 * $5,000 = $30,000  
+5. 300ft * 250ft = 75,000 square feet 75,000/43560 = 1.7 acres  
+6. 250ft X 575ft = 143,750 square feet  
+7. 640 + 640 + 320 or 1600 Acres. Calculated differently 2.5*640 = 1,600 Acres  
+8. 27,456 / 43,560 = .63 acres  
+9. 8.9 * 43,560 = 387,654 square feet  
+10. Total purchase price = $500,000 - $30,000 + $20,000 = $750,000 - $490,000 = $260,000 
+
+in profit   
+11. $600,000 * .04 = $24,000 total payment is $600,000 + $24,000 = $624,000  
+12. 15.7ft X 18.5ftf + 1t2 X 12ft + 14ft X 12.5ft = 609.45 square feet  
+13. 32,000/43,560 = .73 acres  
+14. Total purchase price = $500,000 - $15,000 + $25,000 = $450,000 - $510,000 = $-60,000 
+
+or a loss  
+15. ($115,000-$75,000)/$75,000 * 100 = 60%  
+16. 7,700 + 9,600 = 17,300 square feet  
+17. $10,000 * 12 – $2,700 * 12 = $120,000 – $32,400 = $87,600 NOI  
+18. (($200,000 - $50,000)/$1,000,000) * 100 = 15%  
+19. 750,000/ 27.5 = 27272.73  
+20. (520,000 * (.06 - .03) = $15,600)  
+21. $1,745 + $1,256 + $124 + $99 = $3,224    
+22. 33% is the percentage form and 1/3 is the fraction form.  
+23. ½ is the fraction form and .5 is the decimal form.  
+24. 25% is the percentage form and .25 is the decimal form.  
+25. $16,000. $200,000 * .08 = 16,000 prepayment penalty.  
+26. $18,618.52.  $500,000 / 39 = $18,618.52 depreciation each year.  
+27. $500,000 * .03 = $15,000 closing costs  
+28. 245/365 = .67 then .67*$2,500=$1,678.08  
+
+ 
+
+ARTI® and the ARTI Logo are registered service marks owned by Brokers Technology LLC and licensed to ARTI® Academics.  All rights reserved.

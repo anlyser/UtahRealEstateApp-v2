@@ -1,0 +1,100 @@
+﻿UT PL 42 Math 1 Study Guide
+
+Term
+
+acre An acre is a land measurment with a total of 43,560 square feet; a unit of land area equal to 4,840 
+square yards (0.405 hectare)
+
+amortization Paying off an amount owed (i.e. a loan) over time. When purchasing a home, this is the process by 
+which loan principal decreases over the life of a loan. Each mortgage payment includes some 
+payment applied to the interest of the loan and some applied towards reducing the principal 
+(amount that must be paid back).
+
+Commission Split The structure in which a commission is split between the agent and the brokerage. If a selling 
+agent is on a 70% split, the broker keeps 30% of the agent's commission from the sale.
+
+depreciation The diminishing of value of a home over time. This calculation is done to make the cost approach 
+to appraising more accurate by accounting for home age. When you calculate this, be sure to 
+remove the value of the lot first, as it does not depreciate the way a house does!
+
+loan origination fee A fee for processing a loan application and agreement, usually paid at signing. This is typically a 
+percentage of the total loan.
+
+loan to value ratio An amount that is charged to reduce the interest rate. Each point increases the lender's yield by 
+1/8%. A 7% loan with 2 points paid would increase the yield to 7.25%.
+
+Principal The money initially borrowed for a loan that must be paid back.
+
+subject property The property to be sold by the seller.
+
+Concept
+
+Calculation and Paying back a loan costs more than the amount of principal borrowed because interest is added. 
+Paying Back of Loans The first payments made on a loan are mostly applied to interest rather than the principal.  Most 
+
+people use financial calculators to calculate loan payments.
+
+Comparable Sales The process of helping sellers figure out a reasonable price at which to sell their homes. To do this, 
+Approach the agent needs to find other properties in the neighborhood similar to the property for sale and 
+
+make adjustments for differences. If the subject is better, we add; in other words, if the home to 
+be sold has a fireplace and the comparable home does not, add the value of the fireplace to the 
+value of the comparable home. This is the more common approach for estimating the cost of 
+property.
+
+Cost Approach to An appraisal estimate based on the cost of rebuilding the home, such as the cost per square foot of 
+Appraising livable area and garage area. This is a high-end estimate (since a used home will cost less than 
+
+building it brand new), so that is why this is less common to use.
+
+I/YR Stands for Interest per Year on a loan calculator app.
+
+Income Approach to Determining the value of a property based on how much money it could make, i.e. if it is used as a 
+Appraising rental property or business. Start with the amount of money it could produce per year (PGI), then 
+
+subtract vacancy and collection loss (VC) to get Effective Gross Income (EGI). Then subtract 
+operating expenses (OE: based on taxes, insurance, variable expenses, and reserve) to get the Net 
+Operating Income (NOI). Divide the NOI by the capitalization rate (R) to get the property's value 
+(V). PGI - VAC - OE = NOI. NOI/R = V
+
+Loan Calculators A loan calculator factors in the repayment of interest and principal on the loan to determine how 
+long it will take to pay off
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 1 of 2
+
+
+
+Math Story Problem Be sure to answer the question that is actually being asked. For example, if a question mentions an 
+Solving agent's % split but asks for the broker's share of the commission, be sure to calculate the broker's 
+
+share rather than the agent's.
+
+N Stands for the Number of payment periods on a loan calculator app.
+
+P&I payment Principal and Interest payment.
+
+PITI payment Principal, Interest, Taxes, and Insurance payment. This occurs when taxes and insurance are 
+included in the loan payment.
+
+PMT Stands for Payment on a loan calculator app.
+
+Property Requirements set by the lender stating what the maximum allowable housing expense to income 
+Measurement ratio, and housing expense plus other debt to income ratio can be in order to qualify for a loan. 
+
+PITI payments divided by gross monthly income gives the Housing Expense Ratio. PITI added to all 
+monthly debts, divided by gross monthly income, gives the Total Obligations Ratio.
+
+PV Stands for Present Value on a loan calculator app.
+
+Seller Minimum Sellers usually have a target for how much money they want to make off of their property, after 
+Listing taking commissions and taxes into account. Calculate this by adding the minimum value the sellers 
+
+want for the property to the closing costs. Then, divide that by the percentage NOT included in 
+commission (i.e. divide by 94% if there is a 6% commission). $280,000 (the minimum the seller 
+wants to make) + $4000 (closing costs) / 94% (100% - 6% commission) = a minimum listing price of 
+$302,127.66
+
+Straight Line The amount of depreciation is calculated by dividing the cost to build the home by the total years 
+Depreciation of useful life and then multiplying by the number of years that the home has existed.
+
+Copyright 2019 ARTI Academics and Brokers Technology Page 2 of 2
