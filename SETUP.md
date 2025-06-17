@@ -8,8 +8,8 @@
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yestobetter/utah-real-estate-prep.git
-   cd utah-real-estate-prep
+   git clone  
+   cd the clone
    ```
 
 2. Install dependencies
